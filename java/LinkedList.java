@@ -1,4 +1,4 @@
-package LinkedLists.LinkedList;
+package abstractdatatypes;
 import java.util.Random;
 
 public class LinkedList {
